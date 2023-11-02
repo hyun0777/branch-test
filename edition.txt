@@ -3,3 +3,5 @@ secnod edition
 third edition
 issu resolved
 Hotfix team's solution
+New function added
+
